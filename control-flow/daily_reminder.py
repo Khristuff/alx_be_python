@@ -1,6 +1,5 @@
-# Prompt for a Single Task
 Task = input("Enter your task: ")
-Priority = input("Priority (high, medium, low): ")
+Priority = input("Priority (high/medium/low): ")
 Time_bound = input("Is it time-bound? (yes/no): ")
 
 match Priority:
